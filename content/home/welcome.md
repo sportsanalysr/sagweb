@@ -17,5 +17,5 @@ advanced:
   css_class:
 ---
 
-Sports Analysr Group has been a center of excellence for Sports Analytics research since its founding in 2021.
+Sports Analysr has been a center of excellence for Sports Analytics research since its founding in 2021.This is the first research group dedicated to sports analytics in Sri Lanka. 
 
