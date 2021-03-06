@@ -1,6 +1,6 @@
 ---
 date: "2020-12-01"
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: RM SILVA Wins First Place in the Wowchemy Prize
 ---
 
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
