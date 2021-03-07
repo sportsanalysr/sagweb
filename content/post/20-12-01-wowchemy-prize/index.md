@@ -31,4 +31,8 @@ A Study of Forehand Overhead Smash in Badminton: Relationship with Upper Body An
 WP WRI Fernando, RM Silva\\
 https://www.kdu.ac.lk/irc2020/wp-content/uploads/2020/10/BAS-E.pdf
 
+An Analysis of Batting Consistency in ODI Cricket Using One-Sided EWMA Control Chart\\
+RMS K K D S De Silva\\
+Proceedings of the International Statistics Conference 2017 –IASSL
+
 
