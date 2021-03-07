@@ -1,14 +1,34 @@
 ---
-date: "2020-12-01"
-title: RM SILVA Wins First Place in the Wowchemy Prize
+date: "2021-03-07"
+title: Selected Research papers published by Members of SAG
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Sports Analytics Group of University of Sri Jayewardenepura consists of academics from various disciplines working on Sports related problems. The following research publications are their collective or individual works on Sports Analytics. 
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+A study of the powerplay in one-day cricket\\
+RM Silva, ABW Manage, TB Swartz\\
+European Journal of Operational Research 244 (3), 931-938.
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+Analysis of substitution times in soccer\\
+RM Silva, TB Swartz\\
+Journal of Quantitative Analysis in Sports 12 (3), 113-122
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+Tactics for Twenty20 cricket\\
+J Davis, H Perera, RM Silva, TB Swartz\\
+South African Statistical Journal 50 (2), 261-271
+
+The evaluation of pace of play in hockey\\
+RM Silva, J Davis, TB Swartz\\
+Journal of Sports Analytics 4 (2), 145-151
+
+Sports Analytics (PhD Thesis)\\
+RM Silva\\
+Simon Fraser University, Canada
+
+A Study of Forehand Overhead Smash in Badminton: Relationship with Upper Body Anthropometrics\\
+WP WRI Fernando, RM Silva\\
+https://www.kdu.ac.lk/irc2020/wp-content/uploads/2020/10/BAS-E.pdf
+
+
