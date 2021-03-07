@@ -7,6 +7,7 @@ Sports Analytics Group of University of Sri Jayewardenepura consists of academic
 
 <!--more-->
 
+<<<<<<< HEAD
 A study of the powerplay in one-day cricket\\
 RM Silva, ABW Manage, TB Swartz\\
 European Journal of Operational Research 244 (3), 931-938.
@@ -36,3 +37,12 @@ RMS K K D S De Silva\\
 Proceedings of the International Statistics Conference 2017 –IASSL
 
 
+=======
+A study of the powerplay in one-day cricket
+RM Silva, ABW Manage, TB Swartz
+European Journal of Operational Research 244 (3), 931-938.
+
+Analysis of substitution times in soccer
+RM Silva, TB Swartz
+Journal of Quantitative Analysis in Sports 12 (3), 113-122
+>>>>>>> 90b9dfcad3afa1bea820d772208ae51e386a73cd
