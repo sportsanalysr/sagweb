@@ -125,8 +125,8 @@ expire_days = 2
 # Hero Area Section
 [Languages.en.params.hero]
 enable  = true
-heading = "We love to make brands grow"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+heading = "Sports AnalysR Group"
+description = "Sports AnalysR is a showcase of projects/case studies related to analytics in Sports. The group consists of academics from various disciplines, Sports Science graduates and undergraduates of University of Sri Jayewardenepura. This is the first research group dedicated to sports analytics in Sri Lanka. Sports related problems are mainly analyzed using R programming, hence, “Sports AnalysR”."
 button  = true
 btnText = "Know More"
 btnURL  = "https://themefisher.com/"
