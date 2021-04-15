@@ -22,8 +22,8 @@ DefaultContentLanguage = "en"
 logo = "images/logo.png"
 
 # Gestion des langues : FR / EN / NL / DE
-[[Params.listeLangues]]
-code = "fr"
+#[[Params.listeLangues]]
+#code = "fr"
 [[Params.listeLangues]]
 code = "en"
 
