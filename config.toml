@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://sportsanalysr.netlify.app"
 languageCode = "en-us"
 title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "navigator-hugo"
